@@ -174,7 +174,7 @@ body {
 }
 
 .tagline {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color: #f7fafc;
     font-weight: 600;
     margin-bottom: 0.5rem;
@@ -233,7 +233,7 @@ body {
     align-items: center;
     justify-content: center;
     background: linear-gradient(180deg, #1a202c 0%, #2d3748 100%);
-    padding: 1rem 0.5rem;
+    padding: 4rem 2rem;
 }
 
 .paper-texture {
@@ -310,7 +310,7 @@ body {
 /* Biomes Section */
 .biomes-section {
     min-height: 100vh;
-    padding: 4rem 3rem;
+    padding: 4rem 2rem;
     background: linear-gradient(180deg, #2d3748 0%, #4a5568 100%);
     display: flex;
     flex-direction: column;
@@ -564,7 +564,6 @@ body {
     animation-delay: 0.5s;
 }
 
-
 @keyframes rain {
     0% { opacity: 1; transform: translateY(0); }
     100% { opacity: 0; transform: translateY(15px); }
@@ -629,7 +628,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 10px 5px;
+    padding: 3rem 2rem;
     position: relative;
 }
 
@@ -644,7 +643,7 @@ body {
 
 .studio-name {
     font-family: 'Dancing Script', cursive;
-    font-size: 3rem;
+    font-size: 2rem;
     color: #f7fafc;
     margin-bottom: 0.5rem;
 }
